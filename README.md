@@ -3,4 +3,4 @@
 このリポジトリは Git 動画講座用です．
 ローカルリポジトリ修正
 no-fast-forward のブランチで変更
-conflet remote 上で更新
+rebace-practice ブランチで更新(rebase 用)
