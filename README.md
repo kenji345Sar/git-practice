@@ -4,3 +4,4 @@
 ローカルリポジトリ修正
 no-fast-forward のブランチで変更
 rebace-practice ブランチで更新(rebase コンフリクト用)
+rebase pull用
